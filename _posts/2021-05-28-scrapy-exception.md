@@ -100,3 +100,6 @@ if __name__ == '__main__':
 现实往往过于残酷…
 
 省略的东西是都要加上的
+
+
+{% include disque.html %}
