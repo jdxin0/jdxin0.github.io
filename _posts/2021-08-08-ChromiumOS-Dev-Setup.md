@@ -17,9 +17,7 @@ categories:
         ```
     * dep. git, python(>=3.6), etc
         ```bash
-        sudo apt-get install -y git-core gitk git-gui curl lvm2 thin-provisioning-tools \
-     python-pkg-resources python-virtualenv python-oauth2client xz-utils \
-     python3.6
+        sudo apt-get install -y git-core gitk git-gui curl lvm2 thin-provisioning-tools python-pkg-resources python-virtualenv python-oauth2client xz-utils python3.6
      ```
 
 ----
